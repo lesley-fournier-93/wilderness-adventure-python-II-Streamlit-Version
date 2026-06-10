@@ -147,4 +147,4 @@ Improved save system
 Sound effects and animations
 👤 Author
 
-Created by Lesley.
+Created by Lesley Fournier
