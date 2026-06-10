@@ -1,2 +1,10 @@
-# wilderness-adventure-python-II-Streamlit-Version
-An interactive survival game built with Python and Streamlit. Collect resources, trade with Tesla, manage health and energy, survive the wilderness, and build a signal fire to get rescued.
+# Abenteuer in der Wildnis – Streamlit Version
+
+## Start
+
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
+
+Die Datei `wildnis_core.py` enthält weiterhin die Spiellogik. Die neue Datei `streamlit_app.py` baut darauf die Streamlit-Oberfläche auf.

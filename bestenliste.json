@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Lesley",
+        "punkte": 684,
+        "gewonnen": true,
+        "runden": 16,
+        "datum": "01.06.2026 22:10"
+    },
+    {
+        "name": "Lesley",
+        "punkte": 46,
+        "gewonnen": false,
+        "runden": 3,
+        "datum": "01.06.2026 22:12"
+    }
+]
