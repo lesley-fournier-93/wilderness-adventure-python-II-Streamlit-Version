@@ -15,6 +15,9 @@ The player wakes up alone in the wilderness after a heavy storm. The camp is des
 
 You can collect food, gather materials, trade rare goods, manage your inventory, and try to survive long enough to build a signal fire.
 
+<img width="1721" height="1313" alt="image" src="https://github.com/user-attachments/assets/6ac9598f-0239-4a10-a200-0c1b2cdde2f0" />
+
+
 The game includes:
 
 - Health and energy management
